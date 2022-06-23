@@ -17,5 +17,6 @@
    - /educator/login: Login Educator
    - /educator/show: Show Educator
  
- 
+ ## Live Link
+ https://diphy.herokuapp.com/
 
